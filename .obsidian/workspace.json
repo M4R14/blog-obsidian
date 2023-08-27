@@ -64,9 +64,33 @@
                 "file": "images/class-diagram.png"
               }
             }
+          },
+          {
+            "id": "787f4b4627469360",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "laravel/บันทึก - การย้าย database และ laravel storage ไปเครื่องใหม่.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f3f99cf55720aae8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "laravel/Connecting to Multiple Databases in Laravel.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -132,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "images/class-diagram.png",
+                "file": "laravel/Connecting to Multiple Databases in Laravel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "images/class-diagram.png",
+                "file": "laravel/Connecting to Multiple Databases in Laravel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "images/class-diagram.png"
+                "file": "laravel/Connecting to Multiple Databases in Laravel.md"
               }
             }
           },
@@ -201,18 +225,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6ddd70f48eb6bcae",
+  "active": "f3f99cf55720aae8",
   "lastOpenFiles": [
+    "laravel/บันทึก - การย้าย database และ laravel storage ไปเครื่องใหม่.md",
+    "laravel/Connecting to Multiple Databases in Laravel.md",
+    "nestjs/Effortless Slug Handling with NestJS Pipes.md",
+    "images/class-diagram.png",
+    "laravel",
     "design-patterns/Creating a Universal Exporter in TypeScript for CSV, JSON, and Excel Formats.md",
     "nestjs/How to use action classes in NestJs.md",
     "nestjs/📝🚀 How to Create Customizable Logging in NestJS with Winston.md",
     "nestjs/Handling Entity Not Found Using Pipes in NestJS.md",
     "nestjs/How to Create a Unit Test for a NestJS Service with a TypeORM Repository (MySQL).md",
-    "nestjs/Effortless Slug Handling with NestJS Pipes.md",
     "README.md",
     "Untitled.md",
     "design-patterns",
-    "images/class-diagram.png",
     "ai/📝🤖💬 Bash AI - The Ultimate Command-Line Tool.md",
     "images",
     "ai",
