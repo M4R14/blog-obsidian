@@ -11,11 +11,28 @@
             "id": "c2f81247de3cf6dd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "nestjs/Effortless Slug Handling with NestJS Pipes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d90acb8f41532bf3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "nestjs/Handling Entity Not Found Using Pipes in NestJS.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -61,11 +78,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 208.5
   },
   "right": {
     "id": "a4a9481d950ff52b",
@@ -81,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "nestjs/Handling Entity Not Found Using Pipes in NestJS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "nestjs/Handling Entity Not Found Using Pipes in NestJS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +138,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "nestjs/Handling Entity Not Found Using Pipes in NestJS.md"
+              }
             }
           }
         ]
@@ -138,6 +160,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c2f81247de3cf6dd",
-  "lastOpenFiles": []
+  "active": "738c3d3bf46c3e7f",
+  "lastOpenFiles": [
+    "nestjs/Effortless Slug Handling with NestJS Pipes.md",
+    "nestjs/Handling Entity Not Found Using Pipes in NestJS.md",
+    "README.md",
+    "nestjs"
+  ]
 }
