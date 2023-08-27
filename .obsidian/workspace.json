@@ -30,9 +30,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5a21811607a14555",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "nestjs/📝🚀 How to Create Customizable Logging in NestJS with Winston.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "164c15f4fb60ea13",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": "nestjs/Handling Entity Not Found Using Pipes in NestJS.md",
+                "staged": false,
+                "hash": "92c6954587c14cd1f914f5dcac1ac27cabae53a2"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -78,8 +102,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -99,7 +122,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "nestjs/Handling Entity Not Found Using Pipes in NestJS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +138,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "nestjs/Handling Entity Not Found Using Pipes in NestJS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,17 +159,23 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "nestjs/Handling Entity Not Found Using Pipes in NestJS.md"
-              }
+              "state": {}
+            }
+          },
+          {
+            "id": "39bdc099e2b42f23",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -160,11 +187,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "738c3d3bf46c3e7f",
+  "active": "39bdc099e2b42f23",
   "lastOpenFiles": [
-    "nestjs/Effortless Slug Handling with NestJS Pipes.md",
-    "nestjs/Handling Entity Not Found Using Pipes in NestJS.md",
     "README.md",
+    "nestjs/Handling Entity Not Found Using Pipes in NestJS.md",
+    "nestjs/Effortless Slug Handling with NestJS Pipes.md",
+    "design-patterns/Creating a Universal Exporter in TypeScript for CSV, JSON, and Excel Formats.md",
+    "Untitled.md",
+    "design-patterns",
+    "nestjs/📝🚀 How to Create Customizable Logging in NestJS with Winston.md",
+    "images/class-diagram.png",
+    "ai/📝🤖💬 Bash AI - The Ultimate Command-Line Tool.md",
+    "images",
+    "ai",
     "nestjs"
   ]
 }
