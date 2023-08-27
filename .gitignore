@@ -1,0 +1,27 @@
+# Obsidian specific
+/.obsidian
+
+# Cache and temporary files
+/.obsidian-cache
+/.obsidian-*
+.DS_Store
+Thumbs.db
+
+# Backups
+*.zip
+*.tar.gz
+
+# User-specific files
+workspace
+lastsync.json
+
+# Generated files
+/*.html
+/*.pdf
+/*.mdx
+
+# Ignore node modules and npm/yarn related files if using plugins
+/node_modules
+/package-lock.json
+/yarn.lock
+
